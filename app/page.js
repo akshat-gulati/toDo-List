@@ -98,7 +98,7 @@ const page = () => {
             }}
             style={styles.deleteButton}
           >
-            Delete Task
+            TASK COMPLETED
           </button>
         </li>
       );
